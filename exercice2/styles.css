@@ -1,0 +1,23 @@
+.class-yellow {
+    background-color: yellow;
+    border:solid 5px white;
+    color: yellow;
+}
+
+.class-bleu {
+    background-color: blue;
+    border:solid 5px white;
+    color: blue;
+}
+
+.class-red {
+    background-color: red;
+    border:solid 5px white;
+    color: red;
+}
+
+.class-white {
+    background-color: white;  
+    border:solid 5px white;
+    color: white;
+}
